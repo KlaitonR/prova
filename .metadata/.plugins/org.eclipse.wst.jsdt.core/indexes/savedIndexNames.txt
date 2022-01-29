@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\klait\workspace-prova\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1968905452.index
+471579368.index
+3660191897.index
+3084236723.index
+2759312820.index
+1237503810.index
+1378283585.index
